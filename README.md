@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Omar 👋</h1>
+<h1 align="center">Hi, I’m @OmarShabann👋</h1>
 
 - 🛠️ Skills :
 <p>
