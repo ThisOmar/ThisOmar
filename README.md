@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Omar👋</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1000&color=2D9BCB&center=true&vCenter=true&width=435&height=90&lines=Hi%2C+I+am+Omar+Shaban+👋;I+am+Learning+to+be+a+front-end+developer" alt="Typing SVG" /></a></h1>
 
 - 🛠️ Skills :
 <p>
@@ -27,6 +27,6 @@
 
 <hr>
 
-<h3 align="center">Wish me luck, bye👋</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Thank+you+for+your+visit+%F0%9F%98%8D" alt="Typing SVG" /></a></h3>
 
 
