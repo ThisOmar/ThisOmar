@@ -15,8 +15,8 @@
 
 - 👨‍💻 Previous works :
 
-   <a href="https://thisomar.github.io/Leon/">Leon</a> <br>
-   <a href="https://thisomar.github.io/Kasper/">Kasper</a>
+   <a href="https://omarshabann.github.io/Leon/">Leon</a> <br>
+   <a href="https://omarshabann.github.io/Kasper/">Kasper</a>
 
 - 🙋‍♂️ Know more about me :
 <p>
