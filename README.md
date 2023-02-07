@@ -21,7 +21,7 @@
 - 🙋‍♂️ Know more about me :
 <p>
 <a href="https://www.facebook.com/3mar.Sh3ban"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/itzomar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/omarshabann/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://codepen.io/3mar_shaban"><img src="https://img.shields.io/badge/CodePen-131437?style=flat&logo=codepen&logoColor=white"/></a>
 </p>
 
