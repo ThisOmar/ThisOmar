@@ -15,9 +15,9 @@
 
 - 👨‍💻 Previous works :
 
-   <a href="https://omarsha6an.github.io/leon.github.io/Leon/">Leon</a> <br>
-   <a href="https://omarsha6an.github.io/leon.github.io/Kasper/">Kasper</a> <br>
-   <a href="https://omarsha6an.github.io/leon.github.io/JSProjects/">My JavaScript Projects</a>
+   <a href="https://omarsha6an.github.io/Leon/">Leon</a> <br>
+   <a href="https://omarsha6an.github.io/Kasper/">Kasper</a> <br>
+   <a href="https://omarsha6an.github.io/JSProjects/">My JavaScript Projects</a>
    
 
 - 🙋‍♂️ Know more about me :
