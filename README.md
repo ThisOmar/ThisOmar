@@ -33,7 +33,7 @@
   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omarsha6an&theme=github_dark"  width="30%" alt="omarsha6an" />
   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omarsha6an&theme=github_dark"  width="30%" alt="omarsha6an" />
    <br><br>
-   <img src="https://www.codewars.com/users/omarsha6an/badges/large" align="center">
+  <p align="center"> <img src="https://www.codewars.com/users/omarsha6an/badges/large" align="center"> </p>
 </p>
 
 <hr>
