@@ -2,16 +2,16 @@
 
 - 🛠️ Skills :
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-732ff9?style=flat&logo=Bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Github-161b22?style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Command_Line-5e6339?style=flat"/>
+<img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML">
+<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" alt="JavaScript">
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" alt="Bootstrap">
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub">
 </p>
 
 - 🌱 I’m currently learning :
 <p>
-<img src="https://img.shields.io/badge/JavaScript-232323?style=flat&logo=javascript&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat"/>
 </p>
 
 - 👨‍💻 Previous works :
@@ -22,7 +22,7 @@
    <a href="https://omarsha6an.github.io/SocialMediaWebsite/">Social Media Website</a>
    
 
-- 🙋‍♂️ Know more about me :
+- 🙋‍♂️ Find me here :
 <p>
 <a href="https://www.facebook.com/omarsha6an"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/omarsha6an/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
