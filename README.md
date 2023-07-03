@@ -13,7 +13,7 @@
 - <h3>🌱 I’m currently learning :</h3>
 <p>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat"/>
+<img src="https://img.shields.io/badge/-React-23272F?logo=react&logoColor=149ECA&style=flat"/>
 </p>
 
 - <h3>👨‍💻 Previous works :</h3>
