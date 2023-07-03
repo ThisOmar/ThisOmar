@@ -27,7 +27,7 @@
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
    <a href="https://omarsha6an.github.io/SocialMediaWebsite/">Social Media Website</a>
    
-- <h3>Find me here :</h3>
+- <h3>📬 Find me here :</h3>
 <p>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 <a href="https://www.facebook.com/omarsha6an"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
