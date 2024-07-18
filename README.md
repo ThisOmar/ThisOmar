@@ -33,14 +33,14 @@
 <a href="https://www.facebook.com/omaralshaafii"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/omaralshaafii/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://codepen.io/3mar_shaban"><img src="https://img.shields.io/badge/CodePen-131437?style=flat&logo=codepen&logoColor=white"/></a>
-<a href="https://www.codewars.com/users/omaralshaafii"><img src="https://img.shields.io/badge/Codewars-CD1818?style=flat&logo=codewars&logoColor=white"/></a>
+<a href="https://www.codewars.com/users/omarsha6an"><img src="https://img.shields.io/badge/Codewars-CD1818?style=flat&logo=codewars&logoColor=white"/></a>
 </p>
 
 <p>
-   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omaralshaafii&theme=github_dark" width="30%" alt="omaralshaafii" />
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omaralshaafii&theme=github_dark"  width="30%" alt="omaralshaafii" />
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omaralshaafii&theme=github_dark"  width="30%" alt="omaralshaafii" /> <br><br>
-  <p align="center"> <img src="https://www.codewars.com/users/omaralshaafii/badges/large" align="center"> </p>
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omarsha6an&theme=github_dark" width="30%" alt="omaralshaafii" />
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omarsha6an&theme=github_dark"  width="30%" alt="omaralshaafii" />
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omarsha6an&theme=github_dark"  width="30%" alt="omaralshaafii" /> <br><br>
+  <p align="center"> <img src="https://www.codewars.com/users/omarsha6an/badges/large" align="center"> </p>
 </p>
 
 <hr>
